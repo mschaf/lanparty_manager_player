@@ -1,0 +1,10 @@
+{
+  "api":{
+    "url": "",
+    "token": ""
+  },
+  "spotify": {
+    "username": "",
+    "password": ""
+  }
+}

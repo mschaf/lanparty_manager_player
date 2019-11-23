@@ -1,0 +1,6 @@
+tmp/
+venv/
+youtube_download_cache/
+.idea/
+config.json
+spotify_appkey.key
